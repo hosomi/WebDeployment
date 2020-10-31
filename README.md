@@ -1,5 +1,7 @@
 ﻿# WebDeployment
 
+[![Build Status](https://dev.azure.com/kiyotakehosomi/WebDeployment/_apis/build/status/hosomi.WebDeployment?branchName=azure-pipelines)](https://dev.azure.com/kiyotakehosomi/WebDeployment/_build/latest?definitionId=12&branchName=azure-pipelines)  
+
 ## Usage
 
 ```cmd
